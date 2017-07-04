@@ -1,0 +1,6 @@
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\bin\Debug\Sherlockstring.exe.config
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\bin\Debug\Sherlockstring.exe
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\bin\Debug\Sherlockstring.pdb
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\obj\Debug\Sherlockstring.csprojResolveAssemblyReference.cache
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\obj\Debug\Sherlockstring.exe
+C:\Users\prana\tiy\Practice\Sherlockstring\Sherlockstring\obj\Debug\Sherlockstring.pdb
